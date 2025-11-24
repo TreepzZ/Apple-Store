@@ -1,0 +1,1 @@
+Site com foco em demonstrar habilidades em CSS e JavaScript, esse projeto dessa vez visa mostrar exemplos de produtos da apple com um loop de troca entre os 3 dispositivos, site organizado e minimalista.
